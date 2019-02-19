@@ -6,3 +6,10 @@ This repository contains a curated list of publication outlets (journals, confer
 
 The list can be found [here](https://github.com/konstantinklemmer/urbanscience/blob/master/list.md).
 
+##### Contribute:
+If you want to contribute, you can simply use a [pull request](https://github.com/konstantinklemmer/urbanscience/pulls) or raise any issues [here](https://github.com/konstantinklemmer/urbanscience/issues).
+
+##### Contact:
+Please use the following email address for any contact regarding this repository: `k.klemmer_AT_warwick.ac.uk.`
+
+*DISCLAIMER: This list does not reflect any rankings or opinions of academics of the University of Warwick. It is a completely subjectiv list compiled by students for students.*
