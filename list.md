@@ -21,11 +21,19 @@ Urban studies is based on the study of the urban development of cities. This inc
 | [City](http://www.city-analysis.net/) | *Journal* |❌|**Sociology; Planning; Geography; Environmental Science; Anthropology; Philosophy** |
 | [Habitat International](https://www.journals.elsevier.com/habitat-international/) | *Journal* |❌|**Sociology; Planning; Geography; Environmental Science; Economics** |
 | [Cities](https://www.journals.elsevier.com/cities/) | *Journal* |❌|**Sociology; Planning; Geography; Environmental Science; Economics; Politics** |
-| [urban science](https://www.mdpi.com/journal/urbansci) | *Journal* |✔️|**Sociology; Planning; Geography; Environmental Science; Economics; Politics** |
+| [Urban Science](https://www.mdpi.com/journal/urbansci) | *Journal* |✔️|**Sociology; Planning; Geography; Environmental Science; Economics; Politics** |
 
 ## Urban Geography
 
 *PLACEHOLDER*
+
+## Smart Cities
+A smart city is an urban area that uses different types of electronic data collection sensors to supply information which is used to manage assets and resources efficiently. The smart city concept integrates information and communication technology (ICT), and various physical devices connected to the network (the Internet of things or IoT) to optimize the efficiency of city operations and services and connect to citizens. Smart city technology allows city officials to interact directly with both community and city infrastructure and to monitor what is happening in the city and how the city is evolving ([Wikipedia 2019](https://en.wikipedia.org/wiki/Smart_city)).
+
+| Outlet Name | Outlet Type | Open Access | Tags |
+| ------------- |:-------------:| --:| -----:|
+| [Smart Cities](https://www.mdpi.com/journal/smartcities) | *Journal* |✔️| **Planning, Operations Research, Data Analytics, Engineering** |
+| [Journal of Urban Technology](https://www.tandfonline.com/toc/cjut20/current) | *Journal* |❌| **Planning, Management, Operations Research, Geography, Engineering, Data Analytics** |
 
 ## Geographic Information Science (GIS)
 
