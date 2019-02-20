@@ -1,7 +1,7 @@
 **About the list:** *The purpose of this list is to have a curated collection of publishing outlets for the inter- and multidisciplinary field broadly described as "Urban Science". We use several (sub)categories and tags to create a somewhat coherent structure. If you have any ideas on how to improve the structure, please let us know by raising an [issue](https://github.com/konstantinklemmer/urbanscience/issues).*
 
 ## Urban Economics
-Urban economics is broadly the economic study of urban areas; as such, it involves using the tools of economics to analyze urban issues such as crime, education, public transit, housing, and local government finance. More narrowly, it is a branch of microeconomics that studies urban spatial structure and the location of households and firms ([Quigley 2008](http://www.dictionaryofeconomics.com/article?id=pde2008_U000035&edition=current&q=Urban%20economics&topicid=&result_number=1)). 
+Urban economics is broadly the economic study of urban areas; as such, it involves using the tools of economics to analyze urban issues such as crime, education, public transit, housing, and local government finance. More narrowly, it is a branch of microeconomics that studies urban spatial structure and the location of households and firms ([Quigley 2008](http://www.dictionaryofeconomics.com/article?id=pde2008_U000035&edition=current&q=Urban%20economics&topicid=&result_number=1)).
 
 | Outlet Name | Outlet Type | Open Access | Tags |
 | ------------- |:-------------:| --:| -----:|
@@ -49,7 +49,18 @@ A smart city is an urban area that uses different types of electronic data colle
 
 ## Computer Vision
 
-*PLACEHOLDER*
+| Outlet Name | Outlet Type | Open Access | Tags |
+| ------------- |:-------------:| --:| -----:|
+| [Computer Vision and Pattern Recognition (**CVPR**)](http://cvpr2019.thecvf.com/) | *Conference* |✔️| |
+| [International Conference on Computer Vision (**ICCV**)](http://iccv2019.thecvf.com/) | *Conference* |✔️|  |
+| [European Conference on Computer Vision (**ECCV**)](https://eccv2018.org/) | *Conference* |✔️|  |
+| [British Machine Vision Conference (**BMVC**)](https://bmvc2019.org/) | *Conference* |✔️|  |
+| [Asian Conference on Computer Vision (**ACCV**)](http://accv2018.net/) | *Conference* |✔️|  |
+| [International Conference on Image Processing (**ICIP**)](http://2019.ieeeicip.org/) | *Conference* |❌|  |
+| [Transactions on Pattern Analysis and Machine Intelligence (**T-PAMI**)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34/) | *Journal* |❌| |
+| [Transactions on Image Processing (**TIP**)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=83/) | *Journal* |❌| |
+| [International Journal of Computer Vision (**IJCV**)](https://www.springer.com/computer/image+processing/journal/11263/) | *Journal* |❌| |
+| [Pattern Recognition	(**PR**)](https://www.journals.elsevier.com/pattern-recognition/) | *Journal* |❌| |
 
 ## Complex Systems & Networks
 
