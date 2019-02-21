@@ -65,3 +65,12 @@ A smart city is an urban area that uses different types of electronic data colle
 ## Complex Systems & Networks
 
 *PLACEHOLDER*
+
+## Multi- and Interdisciplinary Outlets
+
+| Outlet Name | Outlet Type | Open Access | Tags |
+| ------------- |:-------------:| --:| -----:|
+| [PLOS ONE](https://journals.plos.org/plosone/) | *Journal* |✔️| **Multidisciplinary, Interdisciplinary** |
+| [Scientific Reports](https://www.nature.com/srep/) | *Journal* |✔️| **Multidisciplinary, Interdisciplinary** |
+| [Science Advances](http://advances.sciencemag.org/) | *Journal* |✔️| **Multidisciplinary, Interdisciplinary** |
+| [Royal Society Open Science](https://royalsocietypublishing.org/journal/rsos) | *Journal* |✔️| **Multidisciplinary, Interdisciplinary** |
