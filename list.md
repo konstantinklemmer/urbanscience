@@ -74,3 +74,4 @@ A smart city is an urban area that uses different types of electronic data colle
 | [Scientific Reports](https://www.nature.com/srep/) | *Journal* |✔️| **Multidisciplinary, Interdisciplinary** |
 | [Science Advances](http://advances.sciencemag.org/) | *Journal* |✔️| **Multidisciplinary, Interdisciplinary** |
 | [Royal Society Open Science](https://royalsocietypublishing.org/journal/rsos) | *Journal* |✔️| **Multidisciplinary, Interdisciplinary** |
+| [Nature Communications](https://www.nature.com/ncomms/) | *Journal* |✔️| **Multidisciplinary, Interdisciplinary** |
