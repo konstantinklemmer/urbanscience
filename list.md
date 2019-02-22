@@ -39,9 +39,25 @@ A smart city is an urban area that uses different types of electronic data colle
 
 *PLACEHOLDER*
 
+## Computational Social Science
+
+*PLACEHOLDER*
+
 ## Mobile Computing
 
 *PLACEHOLDER*
+
+## Data Mining 
+
+| Outlet Name | Outlet Type | Open Access | Tags |
+| ------------- |:-------------:| --:| -----:|
+| [International Conference on Knowledge Discovery and Data Mining(**KDD**)](https://www.kdd.org/) | *Conference* |✔️| **Data Mining; Machine Learning; Computer Vision; Methods; Applications** |
+| [International Conference on Management of Data (**MOD**)](https://sigmod.org/) | *Conference* |✔️| **Data Mining; Machine Learning; Data Management; Methods; Applications** |
+| [International Conference on Web Search and Data Mining (**WSDM**)](http://www.wsdm-conference.org/) | *Conference* |❌| **Data Mining; Machine Learning; Computational Social Science; Methods; Applications** |
+| [International Conference on Information and Knowledge Management (**CIKM**)](http://www.cikmconference.org/) | *Conference* |❌|**Data Mining; Machine Learning; Methods; Applications**|
+| [International Conference on Data Mining (**ICDM**)](http://www.cs.uvm.edu/~icdm/) | *Conference* |❌|**Data Mining; Machine Learning; Methods; Applications**|
+| [SIAM International Conference on Data Mining (**SDM**)](https://archive.siam.org/meetings/) | *Conference* |✔️|**Data Mining; Machine Learning; Methods; Applications**|
+| [European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (**ECML/PKDD**)](http://www.ecmlpkdd.org/) | *Conference* |✔️|**Data Mining; Machine Learning; Methods; Applications**|
 
 ## Machine Learning / AI
 
@@ -61,6 +77,8 @@ A smart city is an urban area that uses different types of electronic data colle
 | [Transactions on Image Processing (**TIP**)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=83/) | *Journal* |❌| |
 | [International Journal of Computer Vision (**IJCV**)](https://www.springer.com/computer/image+processing/journal/11263/) | *Journal* |❌| |
 | [Pattern Recognition	(**PR**)](https://www.journals.elsevier.com/pattern-recognition/) | *Journal* |❌| |
+
+## NLP / Computational Linguistics
 
 ## Complex Systems & Networks
 
