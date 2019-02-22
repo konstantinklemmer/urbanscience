@@ -49,9 +49,11 @@ A smart city is an urban area that uses different types of electronic data colle
 
 ## Data Mining 
 
+Data mining is the process of discovering patterns in large data sets involving methods at the intersection of machine learning, statistics, and database systems.[1] Data mining is an interdisciplinary subfield of computer science and statistics with an overall goal to extract information (with intelligent methods) from a data set and transform the information into a comprehensible structure for further use ([KDD 2019](https://www.kdd.org/curriculum/index.html)).
+
 | Outlet Name | Outlet Type | Open Access | Tags |
 | ------------- |:-------------:| --:| -----:|
-| [International Conference on Knowledge Discovery and Data Mining(**KDD**)](https://www.kdd.org/) | *Conference* |✔️| **Data Mining; Machine Learning; Computer Vision; Methods; Applications** |
+| [International Conference on Knowledge Discovery and Data Mining (**KDD**)](https://www.kdd.org/) | *Conference* |✔️| **Data Mining; Machine Learning; Computer Vision; Methods; Applications** |
 | [International Conference on Management of Data (**MOD**)](https://sigmod.org/) | *Conference* |✔️| **Data Mining; Machine Learning; Data Management; Methods; Applications** |
 | [International Conference on Web Search and Data Mining (**WSDM**)](http://www.wsdm-conference.org/) | *Conference* |❌| **Data Mining; Machine Learning; Computational Social Science; Methods; Applications** |
 | [International Conference on Information and Knowledge Management (**CIKM**)](http://www.cikmconference.org/) | *Conference* |❌|**Data Mining; Machine Learning; Methods; Applications**|
@@ -79,6 +81,8 @@ A smart city is an urban area that uses different types of electronic data colle
 | [Pattern Recognition	(**PR**)](https://www.journals.elsevier.com/pattern-recognition/) | *Journal* |❌| |
 
 ## NLP / Computational Linguistics
+
+*PLACEHOLDER*
 
 ## Complex Systems & Networks
 
