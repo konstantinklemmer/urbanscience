@@ -75,7 +75,7 @@ Machine learning is the scientific study of algorithms and statistical models th
 | [International Conference on Artificial Intelligence and Statistics (**AISTATS**)](https://www.aistats.org/) | *Conference* |✔️| **Machine Learning; Artificial Intelligence; Computer Vision; NLP; Statistics; Methods** |
 | [Conference on Learning Theory (**COLT**)](http://www.learningtheory.org/) | *Conference* |✔️| **Machine Learning; Artificial Intelligence; Computer Vision; NLP; Methods** |
 | [Conference on Uncertainty in Artificial Intelligence (**UAI**)](http://auai.org/) | *Conference* |✔️| **Machine Learning; Artificial Intelligence; Computer Vision; NLP; Methods** |
-| [Journal of Machine Learning Research (**JMLR**)](http://www.jmlr.org/) | *Conference* |✔️| **Machine Learning; Artificial Intelligence; Computer Vision; NLP; Methods** |
+| [Journal of Machine Learning Research (**JMLR**)](http://www.jmlr.org/) | *Journal* |✔️| **Machine Learning; Artificial Intelligence; Computer Vision; NLP; Methods** |
 
 
 ## Computer Vision
