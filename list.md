@@ -39,7 +39,7 @@ A smart city is an urban area that uses different types of electronic data colle
 
 *PLACEHOLDER*
 
-## Computational Social Science
+## Computational Social Science / Web Science
 
 *PLACEHOLDER*
 
@@ -49,7 +49,7 @@ A smart city is an urban area that uses different types of electronic data colle
 
 ## Data Mining 
 
-Data mining is the process of discovering patterns in large data sets involving methods at the intersection of machine learning, statistics, and database systems.[1] Data mining is an interdisciplinary subfield of computer science and statistics with an overall goal to extract information (with intelligent methods) from a data set and transform the information into a comprehensible structure for further use ([KDD 2019](https://www.kdd.org/curriculum/index.html)).
+Data mining is the process of discovering patterns in large data sets involving methods at the intersection of machine learning, statistics, and database systems. Data mining is an interdisciplinary subfield of computer science and statistics with an overall goal to extract information (with intelligent methods) from a data set and transform the information into a comprehensible structure for further use ([KDD 2019](https://www.kdd.org/curriculum/index.html)).
 
 | Outlet Name | Outlet Type | Open Access | Tags |
 | ------------- |:-------------:| --:| -----:|
@@ -63,14 +63,25 @@ Data mining is the process of discovering patterns in large data sets involving 
 
 ## Machine Learning / AI
 
-*PLACEHOLDER*
+Machine learning is the scientific study of algorithms and statistical models that computer systems use to effectively perform a specific task without using explicit instructions, relying on patterns and inference instead. It is seen as a subset of artificial intelligence. Machine learning algorithms build a mathematical model of sample data, known as "training data", in order to make predictions or decisions without being explicitly programmed to perform the task ([Bishop 2006](https://www.microsoft.com/en-us/research/publication/pattern-recognition-machine-learning/)).
+
+| [Conference on Neural Information Processing Systems (**NeurIPS**)](https://nips.cc/) | *Conference* |✔️|**Machine Learning; Artificial Intelligence; Computer Vision; NLP; Methods** |
+| [International Conference on Machine Learning (**ICML**)](https://icml.cc/) | *Conference* |✔️| **Machine Learning; Artificial Intelligence; Computer Vision; NLP; Methods** |
+| [International Conference on Learning Representations (**ICLR**)](https://iclr.cc/) | *Conference* |✔️| **Machine Learning; Artificial Intelligence; Computer Vision; NLP; Methods** |
+| [AAAI Conference on Artificial Intelligence (**AAAI**)](https://www.aaai.org/) | *Conference* |✔️| **Machine Learning; Artificial Intelligence; Computer Vision; NLP; Methods; Applications** |
+| [International Joint Conference on Artificial Intelligence (**IJCAI**)](https://www.ijcai.org/) | *Conference* |✔️| **Machine Learning; Artificial Intelligence; Computer Vision; NLP; Methods; Applications** |
+| [International Conference on Artificial Intelligence and Statistics (**AISTATS**)](https://www.aistats.org/) | *Conference* |✔️| **Machine Learning; Artificial Intelligence; Computer Vision; NLP; Statistics; Methods** |
+| [Conference on Learning Theory (**COLT**)](http://www.learningtheory.org/) | *Conference* |✔️| **Machine Learning; Artificial Intelligence; Computer Vision; NLP; Methods** |
+| [Conference on Uncertainty in Artificial Intelligence (**UAI**)](http://auai.org/) | *Conference* |✔️| **Machine Learning; Artificial Intelligence; Computer Vision; NLP; Methods** |
+| [Journal of Machine Learning Research (**JMLR**)](http://www.jmlr.org/) | *Conference* |✔️| **Machine Learning; Artificial Intelligence; Computer Vision; NLP; Methods** |
+
 
 ## Computer Vision
 
 | Outlet Name | Outlet Type | Open Access | Tags |
 | ------------- |:-------------:| --:| -----:|
 | [Computer Vision and Pattern Recognition (**CVPR**)](http://cvpr2019.thecvf.com/) | *Conference* |✔️| |
-| [International Conference on Computer Vision (**ICCV**)](http://iccv2019.thecvf.com/) | *Conference* |✔️|  |
+| [International Conference on Computer Vision (**ICCV**)](http://iccv2019.thecvf.com/) | *Conference* |✔️| |
 | [European Conference on Computer Vision (**ECCV**)](https://eccv2018.org/) | *Conference* |✔️|  |
 | [British Machine Vision Conference (**BMVC**)](https://bmvc2019.org/) | *Conference* |✔️|  |
 | [Asian Conference on Computer Vision (**ACCV**)](http://accv2018.net/) | *Conference* |✔️|  |
