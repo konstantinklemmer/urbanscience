@@ -65,7 +65,9 @@ Data mining is the process of discovering patterns in large data sets involving 
 
 Machine learning is the scientific study of algorithms and statistical models that computer systems use to effectively perform a specific task without using explicit instructions, relying on patterns and inference instead. It is seen as a subset of artificial intelligence. Machine learning algorithms build a mathematical model of sample data, known as "training data", in order to make predictions or decisions without being explicitly programmed to perform the task ([Bishop 2006](https://www.microsoft.com/en-us/research/publication/pattern-recognition-machine-learning/)).
 
-| [Conference on Neural Information Processing Systems (**NeurIPS**)](https://nips.cc/) | *Conference* |✔️|**Machine Learning; Artificial Intelligence; Computer Vision; NLP; Methods** |
+| Outlet Name | Outlet Type | Open Access | Tags |
+| ------------- |:-------------:| --:| -----:|
+| [Conference on Neural Information Processing Systems (**NeurIPS**)](https://nips.cc/) | *Conference* |✔️| **Machine Learning; Artificial Intelligence; Computer Vision; NLP; Methods** |
 | [International Conference on Machine Learning (**ICML**)](https://icml.cc/) | *Conference* |✔️| **Machine Learning; Artificial Intelligence; Computer Vision; NLP; Methods** |
 | [International Conference on Learning Representations (**ICLR**)](https://iclr.cc/) | *Conference* |✔️| **Machine Learning; Artificial Intelligence; Computer Vision; NLP; Methods** |
 | [AAAI Conference on Artificial Intelligence (**AAAI**)](https://www.aaai.org/) | *Conference* |✔️| **Machine Learning; Artificial Intelligence; Computer Vision; NLP; Methods; Applications** |
