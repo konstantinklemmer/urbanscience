@@ -47,6 +47,15 @@ A smart city is an urban area that uses different types of electronic data colle
 
 *PLACEHOLDER*
 
+## Urban Informatics
+
+Urban informatics refers to the study of people creating, applying and using information and communication technology and data in the context of cities and urban environments. Various definitions are available, some provided in the Definitions section. Urban informatics is a trans-disciplinary field of research and practice that draws on three broad domains: people, place and technology ([Foth et al. 2011](https://dl.acm.org/citation.cfm?doid=1958824.1958826)).
+
+| Outlet Name | Outlet Type | Open Access | Tags |
+| ------------- |:-------------:| --:| -----:|
+| [International Workshop on Urban Computing (**UrbComp**)](http://urbcomp.ist.psu.edu/2018/) | *Workshop (in conj. with KDD)* |✔️| **Data Mining; Machine Learning; Computer Vision; Applications; Urban Informatics** |
+| [International Conference on Management of Data (**MOD**)](https://cpemis.eng.cmu.ac.th/~santi/purba2018/) | *Workshop (in conj. with UbiComp* |✔️| **Data Mining; Machine Learning; Mobile Computing; Applications; Urban Informatics** |
+
 ## Data Mining 
 
 Data mining is the process of discovering patterns in large data sets involving methods at the intersection of machine learning, statistics, and database systems. Data mining is an interdisciplinary subfield of computer science and statistics with an overall goal to extract information (with intelligent methods) from a data set and transform the information into a comprehensible structure for further use ([KDD 2019](https://www.kdd.org/curriculum/index.html)).
