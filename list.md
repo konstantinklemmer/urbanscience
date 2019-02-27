@@ -54,7 +54,7 @@ Urban informatics refers to the study of people creating, applying and using inf
 | Outlet Name | Outlet Type | Open Access | Tags |
 | ------------- |:-------------:| --:| -----:|
 | [International Workshop on Urban Computing (**UrbComp**)](http://urbcomp.ist.psu.edu/2018/) | *Workshop (in conj. with KDD)* |✔️| **Data Mining; Machine Learning; Computer Vision; Applications; Urban Informatics** |
-| [International Conference on Management of Data (**MOD**)](https://cpemis.eng.cmu.ac.th/~santi/purba2018/) | *Workshop (in conj. with UbiComp* |✔️| **Data Mining; Machine Learning; Mobile Computing; Applications; Urban Informatics** |
+| [International Workshop on Pervasive Urban Applications (**PURBA**)](https://cpemis.eng.cmu.ac.th/~santi/purba2018/) | *Workshop (in conj. with UbiComp* |✔️| **Data Mining; Machine Learning; Mobile Computing; Applications; Urban Informatics** |
 
 ## Data Mining 
 
