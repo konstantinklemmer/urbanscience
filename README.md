@@ -13,6 +13,8 @@ If you want to contribute, you can simply use a [pull request](https://github.co
 Please use the following email address for any contact regarding this repository: `k.klemmer_AT_warwick.ac.uk.`
 
 ##### Additional resources:
-[Google Scholar metrics](https://scholar.google.co.uk/citations?view_op=top_venues&hl=en)
+
+* [Google Scholar metrics](https://scholar.google.co.uk/citations?view_op=top_venues&hl=en)
+* [Call for Papers Wiki](http://www.wikicfp.com/cfp/)
 
 *DISCLAIMER: This list does not reflect any rankings or opinions of academics of the University of Warwick. It is a completely subjectiv list compiled by students for students.*
