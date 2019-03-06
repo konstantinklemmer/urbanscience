@@ -119,3 +119,5 @@ Machine learning is the scientific study of algorithms and statistical models th
 | [Science Advances](http://advances.sciencemag.org/) | *Journal* |✔️| **Multidisciplinary, Interdisciplinary** |
 | [Royal Society Open Science](https://royalsocietypublishing.org/journal/rsos) | *Journal* |✔️| **Multidisciplinary, Interdisciplinary** |
 | [Nature Communications](https://www.nature.com/ncomms/) | *Journal* |✔️| **Multidisciplinary, Interdisciplinary** |
+| [EPJ Data Science](https://epjdatascience.springeropen.com/) | *Journal* |✔️| **Multidisciplinary, Interdisciplinary, Data Science, Complex Systems, Machine Learning, Data Analytics** |
+
