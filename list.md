@@ -22,6 +22,7 @@ Urban studies is based on the study of the urban development of cities. This inc
 | [Habitat International](https://www.journals.elsevier.com/habitat-international/) | *Journal* |❌|**Sociology; Planning; Geography; Environmental Science; Economics** |
 | [Cities](https://www.journals.elsevier.com/cities/) | *Journal* |❌|**Sociology; Planning; Geography; Environmental Science; Economics; Politics** |
 | [Urban Science](https://www.mdpi.com/journal/urbansci) | *Journal* |✔️|**Sociology; Planning; Geography; Environmental Science; Economics; Politics** |
+| [City & Community](https://onlinelibrary.wiley.com/journal/15406040) | *Journal* |❌|**Sociology; Planning; Geography; Environmental Science; Economics; Politics** |
 
 ## Urban Geography
 
@@ -34,6 +35,7 @@ A smart city is an urban area that uses different types of electronic data colle
 | ------------- |:-------------:| --:| -----:|
 | [Smart Cities](https://www.mdpi.com/journal/smartcities) | *Journal* |✔️| **Planning, Operations Research, Data Analytics, Engineering** |
 | [Journal of Urban Technology](https://www.tandfonline.com/toc/cjut20/current) | *Journal* |❌| **Planning, Management, Operations Research, Geography, Engineering, Data Analytics** |
+| [Digital Cities](https://dc10web.wordpress.com/) | *Workshop* |❌| **Planning, Management, Geography, Engineering, Data Analytics** |
 
 ## Geographic Information Science (GIS)
 
