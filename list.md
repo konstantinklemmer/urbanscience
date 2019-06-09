@@ -49,6 +49,11 @@ A smart city is an urban area that uses different types of electronic data colle
 
 *PLACEHOLDER*
 
+Proceedings of the ACM on
+Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)
+
+|[Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies](**IMWUT**)](https://imwut.acm.org/) | *Journal* |❌| **Mobile Computing; Data Mining; Machine Learning; Applications** |
+
 ## Urban Informatics
 
 Urban informatics refers to the study of people creating, applying and using information and communication technology and data in the context of cities and urban environments. Various definitions are available, some provided in the Definitions section. Urban informatics is a trans-disciplinary field of research and practice that draws on three broad domains: people, place and technology ([Foth et al. 2011](https://dl.acm.org/citation.cfm?doid=1958824.1958826)).
@@ -106,11 +111,19 @@ Machine learning is the scientific study of algorithms and statistical models th
 
 ## NLP / Computational Linguistics
 
-*PLACEHOLDER*
+| Outlet Name | Outlet Type | Open Access | Tags |
+| ------------- |:-------------:| --:| -----:|
+| [Annual Meeting of the Association for Computational Linguistics (**ACL**)](https://www.aclweb.org/portal/) | *Conference* |✔️| **NLP; Machine Learning; Artificial Intelligence; Methods** |
+| [Conference of the North American Chapter of the Association for Computational Linguistics  (**NAACL**)](http://naacl.org/) | *Conference* |✔️| **NLP; Machine Learning; Artificial Intelligence; Methods** |
+| [Conference on Empirical Methods in Natural Language Processing (**EMNLP**)](https://aclweb.org/anthology/venues/emnlp/) | *Conference* |✔️| **NLP; Machine Learning; Artificial Intelligence; Methods** |
+| [International Conference on Computational Linguistics (**COLING**)](https://aclweb.org/anthology/venues/coling/) | *Conference* |✔️| **NLP; Machine Learning; Artificial Intelligence; Methods** |
 
 ## Complex Systems & Networks
 
-*PLACEHOLDER*
+| Outlet Name | Outlet Type | Open Access | Tags |
+| ------------- |:-------------:| --:| -----:|
+| [Conference on Complex Systems (**CCS**)](https://cssociety.org/ccs) | *Conference* |❌| **Complex Systems; Networks; Methods** |
+
 
 ## Multi- and Interdisciplinary Outlets
 
