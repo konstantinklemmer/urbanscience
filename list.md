@@ -43,16 +43,21 @@ A smart city is an urban area that uses different types of electronic data colle
 
 ## Computational Social Science / Web Science
 
-*PLACEHOLDER*
+| Outlet Name | Outlet Type | Open Access | Tags |
+| ------------- |:-------------:| --:| -----:|
+| [The Web Conference (**WWW**)](https://www.iw3c2.org/conferences/) | *Conference* |✔️| **Data Mining; Machine Learning; Computational Social Science; Applications; Networks** |
+| [International Conference on Web Search and Data Mining (**WSDM**)](http://www.wsdm-conference.org/) | *Conference* |✔️| **Data Mining; Machine Learning; Computational Social Science; Networks** |
+| [International AAAI Conference on Web and Social Media (**ICWSM**)](https://www.icwsm.org/) | *Conference* |✔️| **Data Mining; Machine Learning; Computational Social Science; Applications; Networks** |
+| [Conference on Computer-Supported Cooperative Work and Social Computing (**CSCW**)](https://cscw.acm.org/) | *Conference* |✔️| **Data Mining; Machine Learning; Computational Social Science; Applications** |
 
 ## Mobile Computing
 
-*PLACEHOLDER*
-
-Proceedings of the ACM on
-Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)
-
-|[Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies](**IMWUT**)](https://imwut.acm.org/) | *Journal* |❌| **Mobile Computing; Data Mining; Machine Learning; Applications** |
+| Outlet Name | Outlet Type | Open Access | Tags |
+| ------------- |:-------------:| --:| -----:|
+|[Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (**IMWUT**)](https://imwut.acm.org/) | *Journal* |❌| **Mobile Computing; Data Mining; Machine Learning; Applications** |
+|[International Conference on Mobile Computing and Networking (**MobiCom**)](https://www.sigmobile.org/grav/) | *Conference* |❌| **Mobile Computing; Data Mining; Machine Learning; Networks; Applications** |
+|[International Symposium on Wearable Computers (**ISWC**)](http://iswc.net/) | *Conference* |❌| **Mobile Computing; Data Mining; Machine Learning; Networks; Applications** |
+|[International Conference on Human-Computer Interaction with Mobile Devices and Services (**MobileHCI**)](https://mobilehci.acm.org/) | *Conference* |✔️| **Mobile Computing; HCI; Data Mining; Networks; Applications** |
 
 ## Urban Informatics
 
@@ -109,6 +114,14 @@ Machine learning is the scientific study of algorithms and statistical models th
 | [International Journal of Computer Vision (**IJCV**)](https://www.springer.com/computer/image+processing/journal/11263/) | *Journal* |❌| |
 | [Pattern Recognition	(**PR**)](https://www.journals.elsevier.com/pattern-recognition/) | *Journal* |❌| |
 
+## Robotics
+
+| Outlet Name | Outlet Type | Open Access | Tags |
+| ------------- |:-------------:| --:| -----:|
+| [International Conference on Robotics and Automation (**ICRA**)](https://www.ieee-ras.org/) | *Conference* |❌|**Robotics; Computer Vision; Artificial Intelligence; Methods; Applications**|
+| [International Conference on Intelligent Robots and Systems (**IROS**)](https://www.ieee-ras.org/) | *Conference* |❌|**Robotics; Computer Vision; Artificial Intelligence; Methods; Applications**|
+| [Robotics: Science and Systems (**RSS**)](http://www.roboticsconference.org) | *Conference* |✔️|**Robotics; Computer Vision; Artificial Intelligence; Methods; Applications**|
+
 ## NLP / Computational Linguistics
 
 | Outlet Name | Outlet Type | Open Access | Tags |
@@ -118,12 +131,19 @@ Machine learning is the scientific study of algorithms and statistical models th
 | [Conference on Empirical Methods in Natural Language Processing (**EMNLP**)](https://aclweb.org/anthology/venues/emnlp/) | *Conference* |✔️| **NLP; Machine Learning; Artificial Intelligence; Methods** |
 | [International Conference on Computational Linguistics (**COLING**)](https://aclweb.org/anthology/venues/coling/) | *Conference* |✔️| **NLP; Machine Learning; Artificial Intelligence; Methods** |
 
+## AI Ethics & Society
+
+| Outlet Name | Outlet Type | Open Access | Tags |
+| ------------- |:-------------:| --:| -----:|
+| [Conference on Artificial Intelligence, Ethics, and Society (**AIES**)](http://www.aies-conference.com/) | *Conference* |✔️| **Machine Learning; Artificial Intelligence; NLP; Methods; Applications** |
+| [Conference on Fairness, Accountability, and Transparency (**FAT**)](https://fatconference.org/) | *Conference* |✔️| **Machine Learning; Methods; Applications; Ethics** |
+
 ## Complex Systems & Networks
 
 | Outlet Name | Outlet Type | Open Access | Tags |
 | ------------- |:-------------:| --:| -----:|
 | [Conference on Complex Systems (**CCS**)](https://cssociety.org/ccs) | *Conference* |❌| **Complex Systems; Networks; Methods** |
-
+| [International Conference on Complex Networks and their Applications](https://www.complexnetworks.org/) | *Conference* |❌| **Complex Systems; Networks; Methods; Applications** |
 
 ## Multi- and Interdisciplinary Outlets
 
