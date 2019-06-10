@@ -121,6 +121,7 @@ Machine learning is the scientific study of algorithms and statistical models th
 | [International Conference on Robotics and Automation (**ICRA**)](https://www.ieee-ras.org/) | *Conference* |❌|**Robotics; Computer Vision; Artificial Intelligence; Methods; Applications**|
 | [International Conference on Intelligent Robots and Systems (**IROS**)](https://www.ieee-ras.org/) | *Conference* |❌|**Robotics; Computer Vision; Artificial Intelligence; Methods; Applications**|
 | [Robotics: Science and Systems (**RSS**)](http://www.roboticsconference.org) | *Conference* |✔️|**Robotics; Computer Vision; Artificial Intelligence; Methods; Applications**|
+| [Conference on Robot Learning (**CoRL**)](https://www.robot-learning.org/) | *Conference* |✔️|**Robotics; Computer Vision; Artificial Intelligence; Methods; Applications**|
 
 ## NLP / Computational Linguistics
 
