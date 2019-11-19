@@ -138,6 +138,7 @@ Machine learning is the scientific study of algorithms and statistical models th
 | ------------- |:-------------:| --:| -----:|
 | [Conference on Artificial Intelligence, Ethics, and Society (**AIES**)](http://www.aies-conference.com/) | *Conference* |✔️| **Machine Learning; Artificial Intelligence; NLP; Methods; Applications** |
 | [Conference on Fairness, Accountability, and Transparency (**FAT**)](https://fatconference.org/) | *Conference* |✔️| **Machine Learning; Methods; Applications; Ethics** |
+| [ACM SIGCAS Computing and Sustainable Societies (**COMPASS**)](https://acmcompass.org/) | *Conference* |✔️| **Machine Learning; Methods; Applications; Ethics; Computational Social Science** |
 
 ## Complex Systems & Networks
 
